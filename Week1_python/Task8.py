@@ -1,5 +1,5 @@
 import requests
-from forex_python.converter  import CurrencyRates
+
 
 
 # Making our request
